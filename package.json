@@ -1,0 +1,15 @@
+{
+  "name": "com.siyl.h2o",
+  "displayName": "H2O",
+  "version": "3.2.3",
+  "unity": "2019.2",
+  "keywords": ["H2O"],
+  "description": "H2O framework",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Siyl",
+    "email": "siyongli1989@163.com",
+    "url": ""
+  }
+}
